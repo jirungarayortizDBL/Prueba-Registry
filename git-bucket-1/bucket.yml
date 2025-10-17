@@ -2,5 +2,8 @@ flows:
   2c292a72-2803-4732-857a-7ca3d684a3ac: {ver: 3, file: git-bucket-1-flow-1.snapshot,
     comments: movi algo, author: anonymous, created: 1760704763062, flowName: git-bucket-1-flow-1,
     flowDesc: Nuevo flujo git-bucket-1-flow-1}
+  118977d3-6142-4c75-b199-b93679123707: {ver: 1, file: asssssssssssssss.snapshot,
+    comments: '', author: anonymous, created: 1760705317657, flowName: asssssssssssssss,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: 9eb5857f-a602-4650-ac92-c12695d5c830
