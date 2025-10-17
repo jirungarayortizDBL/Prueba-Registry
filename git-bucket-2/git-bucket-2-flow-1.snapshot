@@ -94,6 +94,7 @@
           },
           "properties" : {
             "character-set" : "UTF-8",
+            "key2" : "value2",
             "File Size" : "0B",
             "Batch Size" : "1",
             "Unique FlowFiles" : "false",
@@ -105,6 +106,12 @@
               "displayName" : "Character Set",
               "identifiesControllerService" : false,
               "name" : "character-set",
+              "sensitive" : false
+            },
+            "key2" : {
+              "displayName" : "key2",
+              "identifiesControllerService" : false,
+              "name" : "key2",
               "sensitive" : false
             },
             "File Size" : {
