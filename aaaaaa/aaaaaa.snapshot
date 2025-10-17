@@ -47,8 +47,8 @@
           "name" : "aaaaaa",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 617.0,
-            "y" : 109.0
+            "x" : 496.0,
+            "y" : 200.0
           },
           "properties" : {
             "character-set" : "UTF-8",
