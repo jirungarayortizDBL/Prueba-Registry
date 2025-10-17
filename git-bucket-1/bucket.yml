@@ -1,6 +1,6 @@
 flows:
-  2c292a72-2803-4732-857a-7ca3d684a3ac: {ver: 1, file: git-bucket-1-flow-1.snapshot,
-    comments: '', author: anonymous, created: 1760704596349, flowName: git-bucket-1-flow-1,
+  2c292a72-2803-4732-857a-7ca3d684a3ac: {ver: 2, file: git-bucket-1-flow-1.snapshot,
+    comments: Cambio, author: anonymous, created: 1760704625533, flowName: git-bucket-1-flow-1,
     flowDesc: Nuevo flujo git-bucket-1-flow-1}
 layoutVer: 1
 bucketId: 9eb5857f-a602-4650-ac92-c12695d5c830
