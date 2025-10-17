@@ -219,7 +219,7 @@
           "name" : "UpdateAttribute",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 392.0,
+            "x" : 384.0,
             "y" : 208.0
           },
           "properties" : {
