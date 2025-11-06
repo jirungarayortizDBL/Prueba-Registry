@@ -1,5 +1,5 @@
 flows:
-  9a49c234-7cf6-486d-856b-9a93997d2ac9: {ver: 1, file: git.snapshot, comments: git,
-    author: jirungaray, created: 1762403338877, flowName: git, flowDesc: git}
+  9a49c234-7cf6-486d-856b-9a93997d2ac9: {ver: 2, file: git.snapshot, comments: '',
+    author: jirungaray, created: 1762403379153, flowName: git, flowDesc: git}
 layoutVer: 1
 bucketId: 0a376cb8-8cbd-45c1-b2ff-2abe6ed9493c
